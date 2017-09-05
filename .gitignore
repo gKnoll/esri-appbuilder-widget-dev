@@ -1,0 +1,11 @@
+#npm
+node_modules/
+
+# distribution folder
+dist/
+
+# Map files
+*.map
+
+#CSS for widgets built with SASS
+src/widgets/OpenURL/css/style.css

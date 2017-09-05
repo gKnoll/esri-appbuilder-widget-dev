@@ -1,0 +1,32 @@
+{
+  "name": "appbuilder-widget-dev",
+  "version": "1.0.0",
+  "description": "Sample Project for Web AppBuilder for ArcGIS development",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gKnoll/esri-appbuilder-widget-dev.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gKnoll/esri-appbuilder-widget-dev/issues"
+  },
+  "homepage": "https://github.com/gKnoll/esri-appbuilder-widget-dev#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-amdcheck": "^1.3.2",
+    "grunt-contrib-clean": "^1.1.0",
+    "grunt-contrib-connect": "^1.0.2",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-cssnano": "^2.1.0",
+    "grunt-eslint": "^20.1.0",
+    "grunt-postcss": "^0.8.0",
+    "grunt-sass": "^2.0.0",
+    "grunt-sync": "^0.6.2",
+    "grunt-zip": "^0.17.1"
+  },
+  "dependencies": {
+    "esri-wab-build": "^0.1.2"
+  }
+}
